@@ -1,0 +1,12 @@
+{
+    "name": "circleci",
+    "description": "Learn CI with CircleCI",
+    "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tuyendq/circleci.git"
+    },
+    "author": "Tuyen Dang",
+    "license": "ISC",
+    "homepage": "https://github.com/tuyendq/circleci"
+  }
